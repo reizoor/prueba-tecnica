@@ -1,10 +1,13 @@
+Index
+[Instalacion](#first)
+
 # Rest Api en Laravel
 Este repo contiene una aplicación REST creada en Laravel
 
 ![Screenshot from 2024-06-28 09-35-52](https://github.com/reizoor/prueba-tecnica/assets/51760115/f7294b43-cbeb-49ea-817d-56759decb729)
 
 
-## Instalacion
+## Instalacion  {#first}
 Para la instalación se necesitara de composer 
 ```
 php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
